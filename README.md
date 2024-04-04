@@ -3,6 +3,10 @@
 Results from the paper "Optimization of Shared Trips in the Door-to-Door Transportation Service for People With Disabilities: A Case Study in Barcelona".
 
 
+## Table of Contents
+1. [Tolerable overtimes and temporal flexibility table analysis](#tolerable-overtimes-and-temporal-flexibility-table-analysis)
+2. [Scalability of the service table analysis](#scalability-of-the-service-table-analysis)
+
 
 ## Tolerable overtimes and temporal flexibility table analysis
 
@@ -224,12 +228,6 @@ Results from the paper "Optimization of Shared Trips in the Door-to-Door Transpo
 | 5253.66| 8428.2  | 5253.66  | 492            | 2380.16       | 4.66              | 15.00             | 6.01                        | 20.00                       |
 | 6004.18| 8158.2  | 6004.18  | 528            | 2374.43       | 4.73              | 14.95             | 6.64                        | 20.00                       |
 | 6754.70| 8097.2  | 6754.70  | 536            | 2386.61       | 4.92              | 15.00             | 7.66                        | 20.00                       |
-
-
-
-
-
-
 
 
 
